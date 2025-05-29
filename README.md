@@ -1,1 +1,2 @@
 # Currency-Converter
+A currency converter is an essential tool that enables users to quickly and accurately convert one currency into another based on real-time exchange rates. Designed with a sleek, user-friendly interface, this project leverages HTML, CSS, and JavaScript to provide seamless conversions with minimal effort. By fetching updated exchange rates from an API, users can input an amount, select their desired currencies, and instantly view the converted value. 
